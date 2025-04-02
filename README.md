@@ -1,28 +1,19 @@
+# Tema/motivació
 
-# Formats bàsics
+Explica l’objectiu de la web i la motivació per fer-la. Vinculació amb Geografia.
 
-Markdown en negreta: **This is bold text**
-Markdonw en cursiva: *This text is italicized*
+# Dades/continguts. D’on s’han tret les dades, text, fotos, etc
 
-***All this text is important***
+3 Estructura de la Web. Seccions, decisions preses en la presentació dels apartats, s’han utilitzat els elements adequats per representar la informació (taules, diagrames)
 
-> Text that is a quote
+# Web responsive
 
+Explica cóm ha fet (alguna tècnica) per a que la seva web s’adapti a diferents dispositius. Resolució de les imatges, etc
 
-## Exemples de codi
+# Cartografia
 
-Use `git clone` to list all new or modified files that haven't yet been committed.
+Cóm s’han integrat i elaborat els mapes que apareixen a la web.
 
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
+# Dificultats/millores 
 
-
-### Enllaços i imatges
-
-This site was built using [GitHub Pages](https://pages.github.com/)
-
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+Reflexiona proactivament sobre el producte elaborat.
