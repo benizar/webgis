@@ -2,9 +2,13 @@
 
 Explica l’objectiu de la web i la motivació per fer-la. Vinculació amb Geografia.
 
-# Dades/continguts. D’on s’han tret les dades, text, fotos, etc
+# Dades/continguts
 
-3 Estructura de la Web. Seccions, decisions preses en la presentació dels apartats, s’han utilitzat els elements adequats per representar la informació (taules, diagrames)
+D’on s’han tret les dades, text, fotos, etc
+
+# Estructura de la Web
+
+Seccions, decisions preses en la presentació dels apartats, s’han utilitzat els elements adequats per representar la informació (taules, diagrames)
 
 # Web responsive
 
